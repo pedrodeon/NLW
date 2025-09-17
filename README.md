@@ -1,0 +1,2 @@
+# NLW
+Gemini API, javascript 
